@@ -58,13 +58,6 @@ a:link, a:visited{
   padding: 0;
 }
 
-.hero-banner::before{
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0,0,0,0.4);
-}
-
 .hero-text{
   font-size: 40px;
   font-style: oblique;
